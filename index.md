@@ -27,7 +27,7 @@ Tesla was born on the 10th of July 1856 in Smiljan, Austrian Empire (modern-day 
 
 
 ```
-Disclaimer: This site is used to demonstrate Markdown and is not intended to be a comprehensive outline of Nikola Tesla's life. 
+Disclaimer: This site is used to demonstrate Markdown and is not intended to be a comprehensive outline of Nikola Tesla's life. Test this to see whether it works
 ```
 
 ---
@@ -72,7 +72,7 @@ Tesla obtained around ~~280~~ 300 patents worldwide for his inventions. Many inv
   1. Nikola Tesla Day in Croatia, 10 July
   1. Nikola Tesla annual electric vehicle rally in Croatia
 - **Memorials**
-  1. The Nikola Tesla Memorial Centre in Smiljan, Croatia, opened in 2006.
+  1. The Nikola Tesla Memorial Centre in Smiljan, Croatia, opened.
     
 ![The Nikola Tesla Memorial Centre in Smiljan, Croatia](./assets/img/Muzej_Nikole_Tesle.jpg "The Nikola Tesla Memorial Centre in Smiljan, Croatia")
 
